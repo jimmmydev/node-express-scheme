@@ -57,7 +57,7 @@ Si tienes una idea para mejorar los ejemplos o agregar más variaciones, ¡sién
 Este proyecto está bajo la licencia MIT, por lo que puedes usar libremente estos ejemplos en tus propios proyectos.
 
 
-## 🙏 Donaciones
+# 🙏 Donaciones
 
 Si te ha resultado útil este proyecto y deseas apoyarlo, ¡las donaciones son bienvenidas! A continuación, puedes encontrar las direcciones de mis billeteras para diferentes criptomonedas:
 

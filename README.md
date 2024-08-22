@@ -7,12 +7,6 @@ Este proyecto tiene la intención de proporcionar un esquema básico y ordenado 
 Node.js (v14 o superior recomendado)
 MongoDB (local)
 
-### Ejemplos incluidos:
-
-- **Burguers básicas**: Estructuras sencillas con tres líneas horizontales.
-- **Burguers animadas**: Ejemplos con efectos y transiciones al hacer clic o al pasar el ratón.
-- **Variaciones de diseño**: Diferentes estilos y configuraciones para adaptar el icono a distintas temáticas de diseño.
-
 ## 🚀 Instalación
 
 1. Clona el repositorio en tu máquina local:
